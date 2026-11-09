@@ -371,6 +371,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Gentoro](https://github.com/gentoro-GT/mcp-nodejs-server)** - Gentoro generates MCP Servers based on OpenAPI specifications.
 - **[godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server)** - MCP server to provide golang packages and their information from pkg.go.dev
 - **[Godot MCP](https://github.com/Coding-Solo/godot-mcp)** - MCP server for interacting with the Godot game engine, providing tools for editing, running, debugging, and managing scenes in Godot projects.
+- **[Goldencalf — Polymarket + Kalshi odds (x402)](https://github.com/g-calf/polymarket-odds-x402)** - Pay-per-call x402 API on Base mainnet for live Polymarket and Kalshi prediction market odds. MCP server [`@gcalf/mcp`](https://www.npmjs.com/package/@gcalf/mcp) exposes `get_polymarket_odds`, `get_kalshi_odds`, and batch tools. $0.001–$0.02 USDC per call, no API keys, pre-paywall validation so bad slugs never charge.
 - **[Google Ads](https://github.com/gomarble-ai/google-ads-mcp-server)** - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
 - **[Google Admin MCP](https://github.com/securityfortech/google-admin-mcp)** – A Model Context Protocol (MCP) server enabling interaction with Google Admin APIs.
 - **[Google Keep](https://github.com/feuerdev/keep-mcp)** - Read, create, update and delete Google Keep notes.
